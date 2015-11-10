@@ -11,6 +11,12 @@
     <PackageIdentityName>f9d609fd-6917-441b-a4aa-a4d4e4cc20c6</PackageIdentityName>
     <IntermediateOutputPath>C:\Users\J&amp;R\Documents\412\FamilyTV_GIT\FamilyTV_onpi\FamilyTV_onpi\familtytv_onpi\familtytv_onpi\obj\x86\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>F4CCEDAD66A5DBDD59208421C2965FDCB1A160BE614F4728CD3A8121066DE419</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f9d609fd-6917-441b-a4aa-a4d4e4cc20c6_1.0.0.0_x86__r4z0t7dgrjxzr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f9d609fd-6917-441b-a4aa-a4d4e4cc20c6_r4z0t7dgrjxzr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f9d609fd-6917-441b-a4aa-a4d4e4cc20c6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=J&amp;R</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\J&amp;R\Documents\412\FamilyTV_GIT\FamilyTV_onpi\FamilyTV_onpi\familtytv_onpi\familtytv_onpi\bin\x86\Debug\Core\AppxManifest.xml">
