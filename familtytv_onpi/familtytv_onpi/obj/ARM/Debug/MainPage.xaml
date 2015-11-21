@@ -8,10 +8,16 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
-            <TextBox x:ConnectionId='1' x:Name="HelloMessage" Text="Hello, World!" Margin="10" IsReadOnly="True"/>
-            <Button x:ConnectionId='2' x:Name="ClickMe" Content="Click Me!"  Margin="10" HorizontalAlignment="Center"                      />
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="123,161,111,263" Height="216">
+            <TextBox x:ConnectionId='2' x:Name="HelloMessage" Text="Hello, World!" Margin="10" IsReadOnly="True"/>
+            <Button x:ConnectionId='3' x:Name="ClickMe" Content="Click Me!"  Margin="10" HorizontalAlignment="Center"                      />
+            <Button x:ConnectionId='4' x:Name="previousButton" Content="Previous"/>
+            <Button x:ConnectionId='5' x:Name="nextButton" Content="Next"/>
+            
         </StackPanel>
+        <Image x:ConnectionId='1' x:Name="imageView" HorizontalAlignment="Left" Height="100" Margin="123,377,0,0" VerticalAlignment="Top" Width="100"/>
+
+
     </Grid>
 </Page>
 
