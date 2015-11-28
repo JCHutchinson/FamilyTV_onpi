@@ -1,0 +1,10 @@
+c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfofromdb\bin\Debug\getInfofromdb.exe.config
+c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfofromdb\bin\Debug\getInfofromdb.exe
+c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfofromdb\bin\Debug\getInfofromdb.pdb
+c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfofromdb\bin\Debug\MySql.Data.dll
+c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.csprojResolveAssemblyReference.cache
+c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.Form1.resources
+c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.Properties.Resources.resources
+c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.csproj.GenerateResource.Cache
+c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.exe
+c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.pdb
