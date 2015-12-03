@@ -22,6 +22,17 @@ namespace familtytv_onpi
     /// </summary>
     public sealed partial class MainPage : Page
     {
+
+        MySqlConnection conn;
+        string connString;
+        MySqlDataAdapter adapter;
+        MySqlDataAdapter adapter2;
+        MySqlCommand command;
+
+        MemoryStream memStream;
+        DataTable dt;
+        DataSet ds;
+
         public MainPage()
         {
             this.InitializeComponent();
