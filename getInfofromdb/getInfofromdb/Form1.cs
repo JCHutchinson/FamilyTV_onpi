@@ -61,7 +61,7 @@ namespace getInfofromdb
                 adapter = new MySqlDataAdapter("SELECT * FROM familytv_database1.pictures", conn);
                 ds = new DataSet();
                 adapter.Fill(ds, "pictures");
-                dataGridView1.DataSource = ds.Tables["pictures.title"];
+                //dataGridView1.DataSource = ds.Tables["pictures.title"];
                 conn.Close();
             }
             catch (MySql.Data.MySqlClient.MySqlException ex)

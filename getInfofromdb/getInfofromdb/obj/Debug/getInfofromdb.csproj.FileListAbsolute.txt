@@ -8,3 +8,13 @@ c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfof
 c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.csproj.GenerateResource.Cache
 c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.exe
 c:\users\hutchinson\documents\visual studio 2015\Projects\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.pdb
+C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\getInfofromdb\getInfofromdb\bin\Debug\getInfofromdb.exe.config
+C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.exe
+C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.pdb
+C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.csprojResolveAssemblyReference.cache
+C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.Form1.resources
+C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.Properties.Resources.resources
+C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\getInfofromdb\getInfofromdb\obj\Debug\getInfofromdb.csproj.GenerateResource.Cache
+C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\getInfofromdb\getInfofromdb\bin\Debug\getInfofromdb.exe
+C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\getInfofromdb\getInfofromdb\bin\Debug\getInfofromdb.pdb
+C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\getInfofromdb\getInfofromdb\bin\Debug\MySql.Data.dll
