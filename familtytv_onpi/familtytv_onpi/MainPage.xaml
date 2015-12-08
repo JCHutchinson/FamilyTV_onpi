@@ -16,7 +16,6 @@
             <Image x:Name="image" Height="268" Margin="111,0,59,0"/>
 
         </StackPanel>
-        <Image x:Name="imageView" HorizontalAlignment="Left" Height="100" Margin="123,377,0,0" VerticalAlignment="Top" Width="100"/>
 
 
     </Grid>
