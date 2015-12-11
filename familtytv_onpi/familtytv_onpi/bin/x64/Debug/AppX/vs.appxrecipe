@@ -22,7 +22,7 @@
     <AppXManifest Include="C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\familtytv_onpi\familtytv_onpi\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-12-08T18:12:57.780</Modified>
+      <Modified>2015-12-09T03:40:31.849</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -70,15 +70,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\familtytv_onpi\familtytv_onpi\bin\x64\Debug\Core\entrypoint\familtytv_onpi.exe">
       <PackagePath>entrypoint\familtytv_onpi.exe</PackagePath>
-      <Modified>2015-12-08T18:12:57.145</Modified>
+      <Modified>2015-12-09T03:40:31.219</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\familtytv_onpi\familtytv_onpi\bin\x64\Debug\Core\familtytv_onpi.exe">
       <PackagePath>familtytv_onpi.exe</PackagePath>
-      <Modified>2015-12-08T18:12:57.778</Modified>
+      <Modified>2015-12-09T03:40:31.847</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\familtytv_onpi\familtytv_onpi\bin\x64\Debug\Core\familtytv_onpi.xr.xml">
       <PackagePath>familtytv_onpi.xr.xml</PackagePath>
-      <Modified>2015-12-08T18:09:23.989</Modified>
+      <Modified>2015-12-09T03:07:52.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\familtytv_onpi\familtytv_onpi\bin\x64\Debug\Core\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -114,7 +114,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\familtytv_onpi\familtytv_onpi\bin\x64\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-12-08T18:09:25.677</Modified>
+      <Modified>2015-12-09T03:07:53.870</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HUTCHINSON\Documents\GitHub\FamilyTV_onpi\familtytv_onpi\familtytv_onpi\bin\x64\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>

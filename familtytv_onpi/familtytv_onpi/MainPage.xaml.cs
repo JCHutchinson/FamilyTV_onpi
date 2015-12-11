@@ -29,12 +29,13 @@ namespace familtytv_onpi
         private const string csMySQL = "Server=192.168.1.150;Database=IoTApps;Uid=IoTApplication;Pwd=xxxx;SslMode=None;";
         private const string connString = "Server=160.153.33.38;Database=familytv_database1;Uid=familyTvOwner;Pwd=familyTvProject;SslMode=None;charset=utf8;";
         string query1 = "SELECT userid FROM UserDevices WHERE device_id = AND user_id = ";
-        string query2 = "SELECT image FROM UserPics3 WHERE userid = 12 ";
+        string query2 = "SELECT image FROM UserPics4 WHERE userid = 12 ";
     
         MySqlConnection conn;
         MySqlCommand command;
         MySqlDataReader dr;
         String DeviceID = "11111";
+        //System.Text.Encoding = UTF-8;
         //System.Text.EncodingProvider ppp;
         //ppp = System.Text.CodePagesEncodingProvider.Instance;
         //Encoding.RegisterProvider(ppp);
@@ -44,11 +45,12 @@ namespace familtytv_onpi
         {
             this.InitializeComponent();
             ConnectDB();
+            display();
         }
 
         private void ClickMe_Click(object sender, RoutedEventArgs e)
         {
-            this.HelloMessage.Text = "Hello, Windows IoT Core!";
+            //this.HelloMessage.Text = "Hello, Windows IoT Core!";
 
 
         }
@@ -58,8 +60,13 @@ namespace familtytv_onpi
             try {
                 conn = new MySqlConnection();
                 conn.ConnectionString = connString;
-                conn.Open();            
                 
+
+                command = conn.CreateCommand();
+                conn.Open();
+                command.CommandText = "SELECT image FROM UserPics4 WHERE userid = 12 ";
+                MySqlDataReader reader = command.ExecuteReader();
+
             }
             catch (MySql.Data.MySqlClient.MySqlException ex)
             {
@@ -67,15 +74,17 @@ namespace familtytv_onpi
                 //MessageBox.Show(ex.Message);
             }
             String ur = "https://pbs.twimg.com/profile_images/378800000532546226/dbe5f0727b69487016ffd67a6689e75a.jpeg";
-            image.Source = new Windows.UI.Xaml.Media.Imaging.BitmapImage(new System.Uri(ur)); 
+            image.Source = new Windows.UI.Xaml.Media.Imaging.BitmapImage(new System.Uri(ur));
+
+       
 
         }
 
         public void display()
         {
-            command = new MySqlCommand(query, conn);
-            byte[] img = (byte[]) command.ExecuteScalar();
-            MemoryStream ms = new MemoryStream(img);
+           
+            //byte[] img = (byte[]) command.ExecuteScalar();
+            //MemoryStream ms = new MemoryStream(img);
 
           
            // imageView.v

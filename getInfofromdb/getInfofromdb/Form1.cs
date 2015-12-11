@@ -20,6 +20,8 @@ namespace getInfofromdb
         MySqlDataAdapter adapter2;
         MySqlCommand command;
 
+        string userid = "10154350696314606";
+
         MemoryStream memStream;
         DataTable dt;
         DataSet ds;
@@ -86,7 +88,7 @@ namespace getInfofromdb
             }
 
             //string query = "SELECT * FROM UserPics WHERE userid = 12";
-            string query = "SELECT image FROM UserPics2 WHERE userid = 12 ";
+            string query = "SELECT image FROM UserPics2 WHERE userid = 10154350696314606 ";
             command = new MySqlCommand(query, conn);
             adapter2 = new MySqlDataAdapter(command);
 
